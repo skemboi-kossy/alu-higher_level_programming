@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 def raise_exception():
-    return 1 / 0v
+    return 1 + "a"
